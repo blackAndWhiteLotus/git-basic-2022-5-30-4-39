@@ -1,3 +1,4 @@
-This is my new file.
-hhh
-make some change
+What is the difference between add, commit, and push?
+git add：就是将自己的修改提交到缓存区中
+git commit:就是将修改过的文件提交到本地仓库
+git push:将本地仓库的修改推送到远程仓库上
